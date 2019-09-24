@@ -3,4 +3,4 @@ prefix=2
 game=ΛҜ THE BEST
 stayinchannel=true
 songinstatus=false
-token=
+token=NjI2MDM4MTg2OTY3MTcxMDcz.XYoRlA.LMrnzirgKq9jgMDRVcePcoVIO94
